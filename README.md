@@ -5,6 +5,8 @@ I have successfully completed the Six Sigma Green and Black Belt with Business A
 
 # 2. Open Source Contribution
 
+## 2.1 py-datatable
+
 I'm actively involved in contributing to the open-source project py-datatable, a data wrangling library funded by h2o.ai. 
 
 Here's how I'm helping the community:
@@ -20,3 +22,7 @@ Here's how I'm helping the community:
 I'm a dedicated contributor to the py-datatable community. Having leveraged its capabilities for efficient large-scale data handling, I've authored a series of Jupyter Notebooks to guide others in getting started with py-datatable in Python.
 
 https://myamullaciencia.github.io/datatable_cook_book/intro.html 
+
+## 2.2 polars
+
+Polars is a blazingly fast DataFrame library for manipulating structured data. The core is written in Rust, and available for Python, R and NodeJS.
