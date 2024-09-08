@@ -4,11 +4,17 @@ I have successfully completed the Six Sigma Green and Black Belt with Business A
 
 # Open Source Contribution
 
-I'm actively involved in contributing to the open-source project py-datatable, a data wrangling library funded by h2o.ai. Here's how I'm helping the community:
+I'm actively involved in contributing to the open-source project py-datatable, a data wrangling library funded by h2o.ai. 
 
-**Feature Requests and Bug Reports:** I propose new features and report bugs I encounter on the project's GitHub repository.
-**Documentation Development:** I contribute to expanding and improving the documentation for py-datatable, ensuring clear instructions for users.
-**Community Support:** I actively participate in the py-datatable community by responding to issues and answering questions on Stack Overflow and the GitHub discussions forum.
+Here's how I'm helping the community:
+
+  **Feature Requests and Bug Reports:** I propose new features and report bugs I encounter on the project's GitHub repository.
+
+  **Documentation Development:** I contribute to expanding and improving the documentation for py-datatable, ensuring clear instructions for users.
+
+  **Community Support:** I actively participate in the py-datatable community by responding to issues and answering questions on Stack Overflow and the GitHub discussions forum.
+
+https://datatable.readthedocs.io/en/latest/start/quick-start.html
 
 I'm a dedicated contributor to the py-datatable community. Having leveraged its capabilities for efficient large-scale data handling, I've authored a series of Jupyter Notebooks to guide others in getting started with py-datatable in Python.
 
