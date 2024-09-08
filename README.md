@@ -1,6 +1,6 @@
 # 1. ISI_SixSigma_With_Business_Analytics_2018_2024
 
-I have successfully completed the Six Sigma Green and Black Belt with Business Analytics certification programs from the Indian Statistical Institute in Hyderabad. As part of my coursework, I collaborated with employers on two projects. The project reports are available in this GitHub repository for reference.
+I have successfully completed the Six Sigma Green and Black Belt with Business Analytics certification programs from the Indian Statistical Institute in Hyderabad. As part of my coursework, I collaborated with employers on two projects. The course assignment, exams and project reports are available in this GitHub repository for reference.
 
 
 # 2. Open Source Contribution
