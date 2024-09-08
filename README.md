@@ -14,7 +14,7 @@ Here's how I'm helping the community:
 
   **Community Support:** I actively participate in the py-datatable community by responding to issues and answering questions on Stack Overflow and the GitHub discussions forum.
 
-https://datatable.readthedocs.io/en/latest/start/quick-start.html
+[https://datatable.readthedocs.io/en/latest/start/quick-start.html](https://datatable.readthedocs.io/en/latest/releases/contributors.html)
 
 I'm a dedicated contributor to the py-datatable community. Having leveraged its capabilities for efficient large-scale data handling, I've authored a series of Jupyter Notebooks to guide others in getting started with py-datatable in Python.
 
