@@ -1,0 +1,3 @@
+scikit-learn
+pickle-mixin
+xgboost==1.4
